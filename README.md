@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [Business webside](https://github.com/zainabriffat/Business-website-)
 
-- 💬 Ask me about **Html, css, javascript**
+- 💬 Ask me about **Html, css, Bootstrap**
 
 - 📫 How to reach me **zainabriffat33@gmail.com**
 
